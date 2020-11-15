@@ -24,11 +24,11 @@ a:hover {
 }
 h1 {
     padding-top: 20px;
-    font-size: 3em;
+    font-size: 5em;
     margin:0 0 20px;
     line-height:1.1;
     text-align: left;
-    font-family:'Bodoni Sans', 'Ubuntu', 'Anonymous Pro';
+    font-family:'Optima', 'Ubuntu', 'Sans-Serif';
 }
 p {
     margin:0 0 20px;
