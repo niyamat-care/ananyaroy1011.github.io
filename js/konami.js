@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('https://user-images.githubusercontent.com/64248612/99162831-2d78d200-2728-11eb-99c3-bbe2363d16bc.jpg')";
+  document.body.style.backgroundImage = "url('https://user-images.githubusercontent.com/64248612/99178260-391fc500-2737-11eb-9f99-562be964e468.gif')";
 
   var audio = new Audio('audio/pling.mp3');
   audio.play();
