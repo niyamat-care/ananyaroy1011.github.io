@@ -44,6 +44,12 @@ p2 {
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+p3 {
+    font-size: 2em;
+    line-height: 1.4em;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 button {
   margin-left: 50px;
   background-color: #00ced1; 
