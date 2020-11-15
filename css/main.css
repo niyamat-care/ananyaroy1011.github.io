@@ -48,6 +48,7 @@ button {
   background-color: #92ffff; 
   border: none;
   color: #3e3f;
+  border-radius: 12px;
   padding: 15px 32px;
   text-align: right;
   text-decoration: none;
