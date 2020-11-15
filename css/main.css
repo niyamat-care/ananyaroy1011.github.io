@@ -28,7 +28,7 @@ h1 {
     margin:0 0 20px;
     line-height:1.1;
     text-align: left;
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family:"Open Sans";
 }
 p1 {
     margin:0 0 20px;
@@ -36,7 +36,7 @@ p1 {
     text-align: left;
     line-height: 1.4em;
     color: #333;
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family:"Open Sans";
 }
 p2 {
     padding-left: 50px;
@@ -45,7 +45,7 @@ p2 {
     text-align: right;
     line-height: 1.4em;
     color: #333;
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family:"Open Sans";
 }
 button {
   padding-left: 50px;
@@ -58,7 +58,7 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family:"Open Sans";
 }
 footer {
     border-top: 1px solid #d5d5d5;
