@@ -28,7 +28,7 @@ h1 {
     margin:0 0 20px;
     line-height:1.1;
     text-align: left;
-    font-family:'Optima', 'Ubuntu', 'Sans-Serif';
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 p1 {
     margin:0 0 20px;
@@ -36,6 +36,7 @@ p1 {
     text-align: left;
     line-height: 1.4em;
     color: #333;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 p2 {
     margin:0 0 20px;
@@ -43,17 +44,19 @@ p2 {
     text-align: right;
     line-height: 1.4em;
     color: #333;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 button {
-  background-color: #92ffff; 
+  background-color: #00ced1; 
   border: none;
-  color: #3e3f;
+  color: #333;
   border-radius: 12px;
   padding: 15px 32px;
   text-align: right;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
