@@ -44,8 +44,8 @@ p2 {
     line-height: 1.4em;
     color: #333;
 }
-.button {
-  background-color: #32ffff; /* Green */
+button {
+  background-color: #32ffff; 
   border: none;
   color: #333;
   padding: 15px 32px;
