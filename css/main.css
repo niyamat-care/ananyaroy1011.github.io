@@ -30,10 +30,17 @@ h1 {
     text-align: left;
     font-family:'Optima', 'Ubuntu', 'Sans-Serif';
 }
-p {
+p1 {
     margin:0 0 20px;
     font-size: 1.5em;
     text-align: left;
+    line-height: 1.4em;
+    color: #333;
+}
+p2 {
+    margin:0 0 20px;
+    font-size: 1.5em;
+    text-align: right;
     line-height: 1.4em;
     color: #333;
 }
