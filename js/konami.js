@@ -22,7 +22,7 @@ document.addEventListener('keydown', function(e) {
   var requiredKey = konamiCode[konamiCodePosition];
 
   // compare the key with the required key
-   if (key == requiredKey) {
+  if (key == requiredKey) {
 
     // move to the next key in the konami code sequence
     konamiCodePosition++;
@@ -38,9 +38,9 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage ="url('![github](https://user-images.githubusercontent.com/64248612/99162831-2d78d200-2728-11eb-99c3-bbe2363d16bc.jpg)')";
+  document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
-  var audio = new Audio('https://www.youtube.com/watch?v=gkTb9GP9lVI');
+  var audio = new Audio('audio/pling.mp3');
   audio.play();
 
   alert("cheats activated");
