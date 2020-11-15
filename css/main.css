@@ -21,10 +21,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    text-align: left;
     font-family:'Bodoni Sans', 'Ubuntu', 'Anonymous Pro';
 }
 p {
     font-size: 1.5em;
+    text-align: left;
     line-height: 1.4em;
     color: #333;
 }
