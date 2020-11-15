@@ -38,11 +38,11 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  ![github](https://user-images.githubusercontent.com/64248612/99162831-2d78d200-2728-11eb-99c3-bbe2363d16bc.jpg)
-  document.body.style.backgroundImage = "url('images/cheatBackground.png')";
+  document.body.style.backgroundImage = "url('https://user-images.githubusercontent.com/64248612/99162831-2d78d200-2728-11eb-99c3-bbe2363d16bc.jpg')";
 
   var audio = new Audio('audio/pling.mp3');
   audio.play();
+  
 
   alert("cheats activated");
 }
