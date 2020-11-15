@@ -38,9 +38,9 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('images/cheatBackground.png')";
+  document.body.style.backgroundImage = "url('https://i.pinimg.com/736x/19/f1/6f/19f16fb3a42a81758102a43a6e837caa.jpg')";
 
-  var audio = new Audio('audio/pling.mp3');
+  var audio = new Audio('https://www.youtube.com/watch?v=gkTb9GP9lVI');
   audio.play();
 
   alert("cheats activated");
