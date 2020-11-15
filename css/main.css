@@ -39,6 +39,7 @@ p1 {
     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 p2 {
+    padding-left: 50px;
     margin:0 0 20px;
     font-size: 1.5em;
     text-align: right;
@@ -47,6 +48,7 @@ p2 {
     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 button {
+  padding-left: 50px;
   background-color: #00ced1; 
   border: none;
   color: #333;
