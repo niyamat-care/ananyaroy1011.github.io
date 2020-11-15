@@ -31,7 +31,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p1 {
-    margin:0 0 20px;
+    "margin-left: 1em;";
     font-size: 1.5em;
     text-align: left;
     line-height: 1.4em;
