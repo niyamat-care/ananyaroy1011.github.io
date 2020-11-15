@@ -1,6 +1,9 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color:#595959;
+  font-weight:400;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -21,10 +24,13 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    margin:0 0 20px;
+    line-height:1.1;
     text-align: left;
     font-family:'Bodoni Sans', 'Ubuntu', 'Anonymous Pro';
 }
 p {
+    margin:0 0 20px;
     font-size: 1.5em;
     text-align: left;
     line-height: 1.4em;
