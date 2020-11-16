@@ -1,0 +1,18 @@
+button {
+  margin-left: 50px;
+  background-color: #00ced1; 
+  border: none;
+  color: #333;
+  cursor: pointer;
+  border-radius: 12px;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+button:hover {background-color: #008080}
+button:active {
+  background-color: #035962;
+  transform: translateY(4px);
+}
