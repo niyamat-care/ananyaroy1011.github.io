@@ -41,5 +41,5 @@ function activateCheats() {
   document.body.style.backgroundImage = "url('https://user-images.githubusercontent.com/64248612/99178260-391fc500-2737-11eb-9f99-562be964e468.gif')";
   //var audio = new Audio('https://www.all-birds.com/Sound/western%20bluebird.wav');
   //audio.play();
- alert("cheats activated");
+ alert("FONKY TIME");
 }
