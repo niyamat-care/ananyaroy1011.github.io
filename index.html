@@ -54,7 +54,26 @@
 		<br>
 		<br>
 		<br>
-		
+		<style>
+			ul {
+				list-style:none;
+			}
+		</style>
+		<script>
+			function addCats(){
+				var liArray = document.getElementsByTagName("li");
+				for(var index = 0; index < liArray.length; index++){
+					liArray[index].innerHTML = "😸" + liArray[index].innerHTML;
+				}
+			}
+		</script>
+		<body onload="addCats()">
+    		<p>Cat facts:</p>
+    		<ul>
+     			 <li>I like cats.</li>
+     			 <li>Cats say meow.</li>
+     			 <li>Cats have whiskers.</li>
+   	 	</ul>
 		<script src="js/konami.js"></script>
 	</body>
 </html>
