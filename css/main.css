@@ -45,14 +45,6 @@ p2 {
     color: #333;
     font-family: 'Open Sans', sans-serif;
 }
-img.inline {
-  padding-left: 50px;
-  display: inline;
-  border:none;
-  box-shadow:none;
-  padding: 0 2px;
-  margin: 0 0
-}
 p3 {
     
     font-size: 2em;
