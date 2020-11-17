@@ -61,6 +61,7 @@ p3 {
     font-family: 'Open Sans', sans-serif;
 }
    button {
+  padding-left:50px;
   background-color: #00ced1; 
   border: none;
   color: #333;
