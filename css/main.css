@@ -39,7 +39,7 @@ p1 {
     font-family: 'Open Sans', sans-serif;
 }
 p2 {
-    margin-left: 20px;
+   
     font-size: 2em;
     line-height: 1.4em;
     color: #333;
@@ -54,14 +54,13 @@ img.inline {
   margin: 0 0
 }
 p3 {
-    margin-left: 20px;
+    
     font-size: 2em;
     line-height: 1.4em;
     color: #333;
     font-family: 'Open Sans', sans-serif;
 }
-    button {
-  bottom: 100px;
+   button {
   background-color: #00ced1; 
   border: none;
   color: #333;
