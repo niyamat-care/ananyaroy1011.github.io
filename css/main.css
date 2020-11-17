@@ -61,7 +61,6 @@ p3 {
     font-family: 'Open Sans', sans-serif;
 }
     button {
-  position: fixed;
   bottom: 100px;
   background-color: #00ced1; 
   border: none;
