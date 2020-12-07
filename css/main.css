@@ -5,6 +5,16 @@ body {
   color:#595959;
   font-weight:400;
 }
+
+iframe 
+{
+ display: block; 
+ width: 100%; 
+ border: none; 
+ overflow-y: auto; 
+ overflow-x: hidden;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -22,6 +32,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     padding-top: 20px;
     font-size: 4em;
